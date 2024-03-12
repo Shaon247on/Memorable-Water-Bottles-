@@ -1,0 +1,18 @@
+.cart-container img{
+    width: 100px;
+    margin: 10px;
+    border: 2px solid slategray;
+    border-radius: 8px;    
+}
+
+.cart-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.cart-item{
+    display: flex;
+    align-items: center;
+
+}
